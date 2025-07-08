@@ -100,8 +100,8 @@ Description: In the summer of 1989, a group of kids unite to defeat a shape-shif
 
 Feel free to reach out if you're interested in collaborating or have feedback.
 
-🔗 LinkedIn: \[Your Profile]
-💻 GitHub: \[Your Username]
+🔗 LinkedIn: \[https://www.linkedin.com/in/ahmed-baalash/]
+💻 GitHub: \[https://github.com/NufalXBaalash]
 
 ## 🏷️ Tags
 
